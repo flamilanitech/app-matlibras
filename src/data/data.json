@@ -1562,18 +1562,948 @@
   "lessons": [
     {
       "id": "l1",
-      "title": "Aula 1 - Operações",
-      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1778973805/operacoes_ohs5cm.mp4"
+      "title": "Aula 1 - Acréscimo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293534/acrescimo_dpcuh0.mp4"
     },
     {
       "id": "l2",
-      "title": "Aula 2 - Fração",
-      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1778972906/fracao_whsbyr.mp4"
+      "title": "Aula 2 - Adição",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293534/adicao_n5vgoi.mp4"
     },
     {
       "id": "l3",
-      "title": "Aula 3 - Expressões númericas",
-      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1778972902/expressoes-numericas_kly1vw.mp4"
+      "title": "Aula 3 - Álgebras",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293541/algebras_hw4ctq.mp4"
+    },
+    {
+      "id": "l4",
+      "title": "Aula 4 - Algoritmo da Adição",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293535/algoritmo-da-adicao_t7i8sz.mp4"
+    },
+    {
+      "id": "l5",
+      "title": "Aula 5 - Algoritmo da Divisão",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293535/algoritmo-da-divisao_dhjair.mp4"
+    },
+    {
+      "id": "l6",
+      "title": "Aula 6 - Algoritmo da Multiplicação",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293536/algoritmo-da-multiplicacao_m9z9xj.mp4"
+    },
+    {
+      "id": "l7",
+      "title": "Aula 7 - Algoritmo da Subtração",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293536/algoritmo-da-subtracao_qtwauh.mp4"
+    },
+    {
+      "id": "l8",
+      "title": "Aula 8 - Algoritmos",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293533/algoritmos_zu2jea.mp4"
+    },
+    {
+      "id": "l9",
+      "title": "Aula 9 - Altura",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293534/altura_txmmou.mp4"
+    },
+    {
+      "id": "l10",
+      "title": "Aula 10 - Ângulo Agudo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293564/angulo-agudo_xjr8ur.mp4"
+    },
+    {
+      "id": "l11",
+      "title": "Aula 11 - Ângulo Obtuso",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293559/angulo-obtuso_xz6ceh.mp4"
+    },
+    {
+      "id": "l12",
+      "title": "Aula 12 - Ângulo Reto",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293559/angulo-reta_gygqkr.mp4"
+    },
+    {
+      "id": "l13",
+      "title": "Aula 13 - Ângulo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293534/angulo_ebevm7.mp4"
+    },
+    {
+      "id": "l14",
+      "title": "Aula 14 - Aresta",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293560/aresta_oguxaq.mp4"
+    },
+    {
+      "id": "l15",
+      "title": "Aula 15 - Aritmética",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293560/aritmetica_cnmrmv.mp4"
+    },
+    {
+      "id": "l16",
+      "title": "Aula 16 - Associativa",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293561/associativa_yfihdg.mp4"
+    },
+    {
+      "id": "l17",
+      "title": "Aula 17 - Base",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293562/base_zdrgse.mp4"
+    },
+    {
+      "id": "l18",
+      "title": "Aula 18 - Bissetriz",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293566/bissetriz_gkj3xc.mp4"
+    },
+    {
+      "id": "l19",
+      "title": "Aula 19 - Cálculo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293563/calculo_h1cohm.mp4"
+    },
+    {
+      "id": "l20",
+      "title": "Aula 20 - Cardinais",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293563/cardinais_xfzwsz.mp4"
+    },
+    {
+      "id": "l21",
+      "title": "Aula 21 - Cartesiano",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293564/cartesiano_xkiejm.mp4"
+    },
+    {
+      "id": "l22",
+      "title": "Aula 22 - Cateto Adjacente",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293597/cateto-adjacente_ike0l8.mp4"
+    },
+    {
+      "id": "l23",
+      "title": "Aula 23 - Cateto Oposto",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293596/cateto-oposto_hm7jps.mp4"
+    },
+    {
+      "id": "l24",
+      "title": "Aula 24 - Centímetro",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293592/centimetro_hlgqlt.mp4"
+    },
+    {
+      "id": "l25",
+      "title": "Aula 25 - Centro",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293593/centro_tvejhe.mp4"
+    },
+    {
+      "id": "l26",
+      "title": "Aula 26 - Cilindro",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293594/cilindro_fmodmf.mp4"
+    },
+    {
+      "id": "l27",
+      "title": "Aula 27 - Círculo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293593/circulo_cawqx9.mp4"
+    },
+    {
+      "id": "l28",
+      "title": "Aula 28 - Circunferência",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293596/circunferencia_jmgwow.mp4"
+    },
+    {
+      "id": "l29",
+      "title": "Aula 29 - Coeficiente",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293595/coeficiente_royd1y.mp4"
+    },
+    {
+      "id": "l30",
+      "title": "Aula 30 - Coincidente",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293597/coincidente_kr9z7g.mp4"
+    },
+    {
+      "id": "l31",
+      "title": "Aula 31 - Colchetes",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293599/colchetes_jqtrsq.mp4"
+    },
+    {
+      "id": "l32",
+      "title": "Aula 32 - Comprimento",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293597/comprimento_hc7ue7.mp4"
+    },
+    {
+      "id": "l33",
+      "title": "Aula 33 - Comutativa",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293612/comutativa_t77nke.mp4"
+    },
+    {
+      "id": "l34",
+      "title": "Aula 34 - Concorrente",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293612/concorrente_kokbvg.mp4"
+    },
+    {
+      "id": "l35",
+      "title": "Aula 35 - Cone",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293628/cone_srpieb.mp4"
+    },
+    {
+      "id": "l36",
+      "title": "Aula 36 - Conferir",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293629/conferir_xbov2o.mp4"
+    },
+    {
+      "id": "l37",
+      "title": "Aula 37 - Constante",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293633/constante_zurj1p.mp4"
+    },
+    {
+      "id": "l38",
+      "title": "Aula 38 - Conta",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293630/conta_f1rrki.mp4"
+    },
+    {
+      "id": "l39",
+      "title": "Aula 39 - Contagem",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293644/contagem_jkqnrv.mp4"
+    },
+    {
+      "id": "l40",
+      "title": "Aula 40 - Coordenada",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293635/coordenada_jozzgf.mp4"
+    },
+    {
+      "id": "l41",
+      "title": "Aula 41 - Corda",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293641/corda_svqh24.mp4"
+    },
+    {
+      "id": "l42",
+      "title": "Aula 42 - Crescimento Exponencial",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293636/crescimento-exponencial_dth1vo.mp4"
+    },
+    {
+      "id": "l43",
+      "title": "Aula 43 - Cubo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293637/cubo_fiizk9.mp4"
+    },
+    {
+      "id": "l44",
+      "title": "Aula 44 - Custo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293637/custo_dlt2ae.mp4"
+    },
+    {
+      "id": "l45",
+      "title": "Aula 45 - Decrescimento Exponencial",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293640/decrescimento-exponencial_wp9e5f.mp4"
+    },
+    {
+      "id": "l46",
+      "title": "Aula 46 - Denominador",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293643/denominador_u8fxbx.mp4"
+    },
+    {
+      "id": "l47",
+      "title": "Aula 47 - Derivada",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293680/derivada_rbyhjh.mp4"
+    },
+    {
+      "id": "l48",
+      "title": "Aula 48 - Desconta",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293699/desconta_vucmp7.mp4"
+    },
+    {
+      "id": "l49",
+      "title": "Aula 49 - Despesa",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293702/despesa_y8v6xz.mp4"
+    },
+    {
+      "id": "l50",
+      "title": "Aula 50 - Diagonal",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293703/diagonal_tp069x.mp4"
+    },
+    {
+      "id": "l51",
+      "title": "Aula 51 - Diâmetro",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293711/diametro_vzyg9n.mp4"
+    },
+    {
+      "id": "l52",
+      "title": "Aula 52 - Diedro",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293713/diedro_aq6oza.mp4"
+    },
+    {
+      "id": "l53",
+      "title": "Aula 53 - Dimensão",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293716/dimensao_k4jntg.mp4"
+    },
+    {
+      "id": "l54",
+      "title": "Aula 54 - Dinheiro",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293713/dinheiro_yas6in.mp4"
+    },
+    {
+      "id": "l55",
+      "title": "Aula 55 - Distributiva",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293714/distributiva_l0okyt.mp4"
+    },
+    {
+      "id": "l56",
+      "title": "Aula 56 - Dividendo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293716/dividendo_cegkqc.mp4"
+    },
+    {
+      "id": "l57",
+      "title": "Aula 57 - Divisão",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293714/divisao_ppg2hn.mp4"
+    },
+    {
+      "id": "l58",
+      "title": "Aula 58 - Divisor",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293731/divisor_rwgis9.mp4"
+    },
+    {
+      "id": "l59",
+      "title": "Aula 59 - Economia",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293729/economia_cewgzf.mp4"
+    },
+    {
+      "id": "l60",
+      "title": "Aula 60 - Eixo das Abscissas X",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293732/eixos-das-ordenadas_x_q77pv5.mp4"
+    },
+    {
+      "id": "l61",
+      "title": "Aula 61 - Eixo das Ordenadas Y",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293729/eixos-das-ordenadas_y_qzrgiz.mp4"
+    },
+    {
+      "id": "l62",
+      "title": "Aula 62 - Elipse",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293731/elipse_qhlimq.mp4"
+    },
+    {
+      "id": "l63",
+      "title": "Aula 63 - Empresta",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293731/empresta_j2gj0t.mp4"
+    },
+    {
+      "id": "l64",
+      "title": "Aula 64 - Equação do 1º Grau",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293740/equacao-do-1-grau_yxgg6t.mp4"
+    },
+    {
+      "id": "l65",
+      "title": "Aula 65 - Equação do 2º Grau",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293737/equacao-do-2-grau_ih2tn1.mp4"
+    },
+    {
+      "id": "l66",
+      "title": "Aula 66 - Equação",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293733/equacao_lynirj.mp4"
+    },
+    {
+      "id": "l67",
+      "title": "Aula 67 - Esfera",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293737/esfera_om8ttx.mp4"
+    },
+    {
+      "id": "l68",
+      "title": "Aula 68 - Estatística",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293751/estatistica_ibsbnf.mp4"
+    },
+    {
+      "id": "l69",
+      "title": "Aula 69 - Expoente",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293752/expoente_oljdxw.mp4"
+    },
+    {
+      "id": "l70",
+      "title": "Aula 70 - Expressões Numéricas",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293755/expressoes-numericas_mjkt26.mp4"
+    },
+    {
+      "id": "l71",
+      "title": "Aula 71 - Face",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293754/face_djazop.mp4"
+    },
+    {
+      "id": "l72",
+      "title": "Aula 72 - Fatoração",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293758/fatoracao_vuth3m.mp4"
+    },
+    {
+      "id": "l73",
+      "title": "Aula 73 - Fatores Primos",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293758/fatores-primos_uchh08.mp4"
+    },
+    {
+      "id": "l74",
+      "title": "Aula 74 - Financeira",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293755/financeira_uio5xc.mp4"
+    },
+    {
+      "id": "l75",
+      "title": "Aula 75 - Fórmula",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293758/formula_tm0fih.mp4"
+    },
+    {
+      "id": "l76",
+      "title": "Aula 76 - Fração",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293759/fracao_nvpkuv.mp4"
+    },
+    {
+      "id": "l77",
+      "title": "Aula 77 - Função Afim",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293779/funcao-afim_vjsj06.mp4"
+    },
+    {
+      "id": "l78",
+      "title": "Aula 78 - Função Constante",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293775/funcao-constante_dz4wee.mp4"
+    },
+    {
+      "id": "l79",
+      "title": "Aula 79 - Função Cosseno",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293775/funcao-constante_dz4wee.mp4"
+    },
+    {
+      "id": "l80",
+      "title": "Aula 80 - Função Exponencial",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293777/funcao-exponencial_ikwssp.mp4"
+    },
+    {
+      "id": "l81",
+      "title": "Aula 81 - Função Logarítmica",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293783/funcao-logaritmica_fjh5fp.mp4"
+    },
+    {
+      "id": "l82",
+      "title": "Aula 82 - Função Modular",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293777/funcao-modular_zkzimn.mp4"
+    },
+    {
+      "id": "l83",
+      "title": "Aula 83 - Função Quadrática",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293781/funcao-quadratica_jr4a49.mp4"
+    },
+    {
+      "id": "l84",
+      "title": "Aula 84 - Função",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293763/funcao_bq5ag8.mp4"
+    },
+    {
+      "id": "l85",
+      "title": "Aula 85 - Geometria Analítica",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293782/geometria-analitica_pniujm.mp4"
+    },
+    {
+      "id": "l86",
+      "title": "Aula 86 - Geometria Especial",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293782/geometria-especial_v3r4a2.mp4"
+    },
+    {
+      "id": "l87",
+      "title": "Aula 87 - Geometria Plana",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293783/geometria-plana_sq1g1e.mp4"
+    },
+    {
+      "id": "l88",
+      "title": "Aula 88 - Geometria",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293782/geometria_azz04d.mp4"
+    },
+    {
+      "id": "l89",
+      "title": "Aula 89 - Gráfico de Barras",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293799/grafico-de-barras_gmsrmm.mp4"
+    },
+    {
+      "id": "l90",
+      "title": "Aula 90 - Gráfico de Colunas",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293801/grafico-de-colunas_xxudd7.mp4"
+    },
+    {
+      "id": "l91",
+      "title": "Aula 91 - Gráfico de Linhas",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293801/grafico-de-linhas_rthlft.mp4"
+    },
+    {
+      "id": "l92",
+      "title": "Aula 92 - Gráfico de Setores",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293805/grafico-de-setores_fvqabn.mp4"
+    },
+    {
+      "id": "l93",
+      "title": "Aula 93 - Gráfico",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293785/grafico_bi6pea.mp4"
+    },
+    {
+      "id": "l94",
+      "title": "Aula 94 - Hexágono",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293804/hexagono_i2o7gc.mp4"
+    },
+    {
+      "id": "l95",
+      "title": "Aula 95 - Hipotenusa",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293802/hipotenusa_iznzco.mp4"
+    },
+    {
+      "id": "l96",
+      "title": "Aula 96 - Horizontal",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293803/horizontal_xw9bse.mp4"
+    },
+    {
+      "id": "l97",
+      "title": "Aula 97 - Ímpar",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293816/impar_kv9z2j.mp4"
+    },
+    {
+      "id": "l98",
+      "title": "Aula 98 - Índice",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293817/indice_irnbtl.mp4"
+    },
+    {
+      "id": "l99",
+      "title": "Aula 99 - Inequação",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293817/inequacao_vozu0q.mp4"
+    },
+    {
+      "id": "l100",
+      "title": "Aula 100 - Inflação",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293817/Inflacao_wnw00x.mp4"
+    },
+    {
+      "id": "l101",
+      "title": "Aula 101 - Integral Definida",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293818/integral-definida_mk9sun.mp4"
+    },
+    {
+      "id": "l102",
+      "title": "Aula 102 - Intercepto",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293819/intercepto_rsehil.mp4"
+    },
+    {
+      "id": "l103",
+      "title": "Aula 103 - Investimento",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293819/investimento_o7kddj.mp4"
+    },
+    {
+      "id": "l104",
+      "title": "Aula 104 - Juro",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293819/juro_fwf4vu.mp4"
+    },
+    {
+      "id": "l105",
+      "title": "Aula 105 - Largura",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293819/largura_yovb96.mp4"
+    },
+    {
+      "id": "l106",
+      "title": "Aula 106 - Limite",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293834/limite_hztzvr.mp4"
+    },
+    {
+      "id": "l107",
+      "title": "Aula 107 - Linhas",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293835/linhas_ovztnu.mp4"
+    },
+    {
+      "id": "l108",
+      "title": "Aula 108 - Literal",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293835/literal_pxakyj.mp4"
+    },
+    {
+      "id": "l109",
+      "title": "Aula 109 - Logaritmos",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293838/logaritmos_f4mtju.mp4"
+    },
+    {
+      "id": "l110",
+      "title": "Aula 110 - Losango",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293837/losango_wguykq.mp4"
+    },
+    {
+      "id": "l111",
+      "title": "Aula 111 - Lucro",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293839/lucro_jqyufi.mp4"
+    },
+    {
+      "id": "l112",
+      "title": "Aula 112 - Matemática Financeira",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293840/matematica-financeira_vorbjk.mp4"
+    },
+    {
+      "id": "l113",
+      "title": "Aula 113 - Matriz",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293838/matriz_uae7zq.mp4"
+    },
+    {
+      "id": "l114",
+      "title": "Aula 114 - Máximo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293856/maximo_llc0ne.mp4"
+    },
+    {
+      "id": "l115",
+      "title": "Aula 115 - MDC",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293858/mdc_oruhwl.mp4"
+    },
+    {
+      "id": "l116",
+      "title": "Aula 116 - Mediana",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293857/mediana_kdfltj.mp4"
+    },
+    {
+      "id": "l117",
+      "title": "Aula 117 - Médio",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293858/medio_c5mhua.mp4"
+    },
+    {
+      "id": "l118",
+      "title": "Aula 118 - Mínimo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293857/minimo_xhx3bh.mp4"
+    },
+    {
+      "id": "l119",
+      "title": "Aula 119 - Minuendo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293857/minuendo_a4mtgi.mp4"
+    },
+    {
+      "id": "l120",
+      "title": "Aula 120 - MMC",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293865/mmc_o0wca7.mp4"
+    },
+    {
+      "id": "l121",
+      "title": "Aula 121 - Moda",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293864/moda_iz8com.mp4"
+    },
+    {
+      "id": "l122",
+      "title": "Aula 122 - Monômio",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293863/monomio_yb025e.mp4"
+    },
+    {
+      "id": "l123",
+      "title": "Aula 123 - Multiplicação",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293862/multiplicacao_u89pge.mp4"
+    },
+    {
+      "id": "l124",
+      "title": "Aula 124 - Numerador",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293866/numerador_knjxsb.mp4"
+    },
+    {
+      "id": "l125",
+      "title": "Aula 125 - Numeral Misto",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293864/numeral-misto_aa6o40.mp4"
+    },
+    {
+      "id": "l126",
+      "title": "Aula 126 - Número",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293866/numero_xybcyz.mp4"
+    },
+    {
+      "id": "l127",
+      "title": "Aula 127 - Oblíqua",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293867/obliqua_ufd1ik.mp4"
+    },
+    {
+      "id": "l128",
+      "title": "Aula 128 - Octógono",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293922/octogono_oreo4n.mp4"
+    },
+    {
+      "id": "l129",
+      "title": "Aula 129 - Operações",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293921/operacoes_i8p8wp.mp4"
+    },
+    {
+      "id": "l130",
+      "title": "Aula 130 - Orçamento",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293918/orcamento_vhlqf0.mp4"
+    },
+    {
+      "id": "l131",
+      "title": "Aula 131 - Ordinais",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293920/ordinais_ema84t.mp4"
+    },
+    {
+      "id": "l132",
+      "title": "Aula 132 - Ortogonal",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293925/ortogonal_lgmtrb.mp4"
+    },
+    {
+      "id": "l133",
+      "title": "Aula 133 - Otimização",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293926/otimizacao_mflvpz.mp4"
+    },
+    {
+      "id": "l134",
+      "title": "Aula 134 - Pagamento",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293920/pagamento_b9pdpo.mp4"
+    },
+    {
+      "id": "l135",
+      "title": "Aula 135 - Par",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293923/par_ci66ud.mp4"
+    },
+    {
+      "id": "l136",
+      "title": "Aula 136 - Paralelas",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779293962/paralelas_jvc4lk.mp4"
+    },
+    {
+      "id": "l137",
+      "title": "Aula 137 - Paralelepípedo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779440212/paralelepipedo_p8y5qz.mp4"
+    },
+    {
+      "id": "l138",
+      "title": "Aula 138 - Paralelogramo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779440212/paralelogramo_ddvwmz.mp4"
+    },
+    {
+      "id": "l139",
+      "title": "Aula 139 - Parcela",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779440212/parcelar_c0pahu.mp4"
+    },
+    {
+      "id": "l140",
+      "title": "Aula 140 - Parêntese",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779440212/parentese_gkeaqg.mp4"
+    },
+    {
+      "id": "l141",
+      "title": "Aula 141 - Pentágono",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779440214/pentagono_npnwps.mp4"
+    },
+    {
+      "id": "l142",
+      "title": "Aula 142 - Perímetro",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779440215/perimetro_dippaj.mp4"
+    },
+    {
+      "id": "l143",
+      "title": "Aula 143 - Perpendicular",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779440213/perpendicular_o4hkui.mp4"
+    },
+    {
+      "id": "l144",
+      "title": "Aula 144 - Pi",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779440214/pi_al9yxi.mp4"
+    },
+    {
+      "id": "l145",
+      "title": "Aula 145 - Pirâmide",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779440214/piramide_vzjsq8.mp4"
+    },
+    {
+      "id": "l146",
+      "title": "Aula 146 - Plano Cartesiano",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779442073/plano-cartesiano_ffyjpw.mp4"
+    },
+    {
+      "id": "l147",
+      "title": "Aula 147 - Polinômio",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497176/polinomio_jeg2vx.mp4"
+    },
+    {
+      "id": "l148",
+      "title": "Aula 148 - Ponto",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497177/ponto_ulnuyq.mp4"
+    },
+    {
+      "id": "l149",
+      "title": "Aula 149 - Porcentagem",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497197/potencia-base_hr73m4.mp4"
+    },
+    {
+      "id": "l150",
+      "title": "Aula 150 - Potência Base",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497197/potencia-base_hr73m4.mp4"
+    },
+    {
+      "id": "l151",
+      "title": "Aula 151 - Potenciação",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497209/potenciacao_d3hfxv.mp4"
+    },
+    {
+      "id": "l152",
+      "title": "Aula 152 - Preço",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497207/preco_zjuejt.mp4"
+    },
+    {
+      "id": "l153",
+      "title": "Aula 153 - Prejuízo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497209/prejuizo_aravkb.mp4"
+    },
+    {
+      "id": "l154",
+      "title": "Aula 154 - Probabilidade",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497226/probabilidade_n2xkwb.mp4"
+    },
+    {
+      "id": "l155",
+      "title": "Aula 155 - Produtos Notáveis",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497255/produtos-notaveis_oeqnez.mp4"
+    },
+    {
+      "id": "l156",
+      "title": "Aula 156 - Quadrado",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497253/quadrado_xjxihn.mp4"
+    },
+    {
+      "id": "l157",
+      "title": "Aula 157 - Quantidade",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497255/quantidade_ltttp8.mp4"
+    },
+    {
+      "id": "l158",
+      "title": "Aula 158 - Quociente",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497255/quociente_fbb71q.mp4"
+    },
+    {
+      "id": "l159",
+      "title": "Aula 159 - Radical",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497281/radical_kcevdc.mp4"
+    },
+    {
+      "id": "l160",
+      "title": "Aula 160 - Radicando",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497284/radicando_azkqql.mp4"
+    },
+    {
+      "id": "l161",
+      "title": "Aula 161 - Radiciação",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497289/radiciacao_imvkik.mp4"
+    },
+    {
+      "id": "l162",
+      "title": "Aula 162 - Raio",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497312/raio_aethkl.mp4"
+    },
+    {
+      "id": "l163",
+      "title": "Aula 163 - Raiz Quadrada",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497308/raiz-quadrada_kniigu.mp4"
+    },
+    {
+      "id": "l164",
+      "title": "Aula 164 - Rebatimento",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497310/rebatimento_dbro2m.mp4"
+    },
+    {
+      "id": "l165",
+      "title": "Aula 165 - Receita",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497338/receita_qa0a2b.mp4"
+    },
+    {
+      "id": "l166",
+      "title": "Aula 166 - Rentabilidade",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497337/rentabilidade_qrojsy.mp4"
+    },
+    {
+      "id": "l167",
+      "title": "Aula 167 - Reta",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497341/reta_fcycym.mp4"
+    },
+    {
+      "id": "l168",
+      "title": "Aula 168 - Retângulo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497361/retangulo_ab70kg.mp4"
+    },
+    {
+      "id": "l169",
+      "title": "Aula 169 - Retorna",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497373/retorna_x6zq1o.mp4"
+    },
+    {
+      "id": "l170",
+      "title": "Aula 170 - Secante",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497380/secante_nlb0kd.mp4"
+    },
+    {
+      "id": "l171",
+      "title": "Aula 171 - Segmento de Reta",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497375/segmento-de-reta_vvv0xg.mp4"
+    },
+    {
+      "id": "l172",
+      "title": "Aula 172 - Segmento",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497376/segmento_ylgnsp.mp4"
+    },
+    {
+      "id": "l173",
+      "title": "Aula 173 - Sequência",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497402/sequencia_tvac2i.mp4"
+    },
+    {
+      "id": "l174",
+      "title": "Aula 174 - Série",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497405/serie_kvat1i.mp4"
+    },
+    {
+      "id": "l175",
+      "title": "Aula 175 - Simetria",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497434/simetria_df56ps.mp4"
+    },
+    {
+      "id": "l176",
+      "title": "Aula 176 - Soma",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497432/soma_tdpqym.mp4"
+    },
+    {
+      "id": "l177",
+      "title": "Aula 177 - Substituição",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497432/substituicao_czwb3y.mp4"
+    },
+    {
+      "id": "l178",
+      "title": "Aula 178 - Subtração",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497437/subtracao_ketgh4.mp4"
+    },
+    {
+      "id": "l179",
+      "title": "Aula 179 - Subtraendo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497568/subtraendo_xgbjeu.mp4"
+    },
+    {
+      "id": "l180",
+      "title": "Aula 180 - Tangente",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497575/tangente_ec6yf4.mp4"
+    },
+    {
+      "id": "l181",
+      "title": "Aula 181 - Taxa",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497573/taxa_p2oepv.mp4"
+    },
+    {
+      "id": "l182",
+      "title": "Aula 182 - Trapézio",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497595/trapezio_o9g5tw.mp4"
+    },
+    {
+      "id": "l183",
+      "title": "Aula 183 - Triângulo",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497591/triangulo_zxsfww.mp4"
+    },
+    {
+      "id": "l184",
+      "title": "Aula 184 - Valor",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497593/valor_qlzzgv.mp4"
+    },
+    {
+      "id": "l185",
+      "title": "Aula 185 - Variável",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497619/variavel_rnknxd.mp4"
+    },
+    {
+      "id": "l186",
+      "title": "Aula 186 - Vertical",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497620/vertical_jkbwao.mp4"
+    },
+    {
+      "id": "l187",
+      "title": "Aula 187 - Vértice",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497622/vertice_krnft0.mp4"
+    },
+    {
+      "id": "l188",
+      "title": "Aula 188 - Vetor",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497622/vetor_kvlbjr.mp4"
+    },
+    {
+      "id": "l189",
+      "title": "Aula 189 - Volume",
+      "videoUrl": "https://res.cloudinary.com/dmgsrznp9/video/upload/v1779497649/volume_q1qst2.mp4"
     }
   ]
 }

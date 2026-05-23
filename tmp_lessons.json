@@ -1,0 +1,758 @@
+[
+  {
+    "id": "l1",
+    "title": "Acréscimo"
+  },
+  {
+    "id": "l2",
+    "title": "Adição"
+  },
+  {
+    "id": "l3",
+    "title": "Álgebras"
+  },
+  {
+    "id": "l4",
+    "title": "Algoritmo da Adição"
+  },
+  {
+    "id": "l5",
+    "title": "Algoritmo da Divisão"
+  },
+  {
+    "id": "l6",
+    "title": "Algoritmo da Multiplicação"
+  },
+  {
+    "id": "l7",
+    "title": "Algoritmo da Subtração"
+  },
+  {
+    "id": "l8",
+    "title": "Algoritmos"
+  },
+  {
+    "id": "l9",
+    "title": "Altura"
+  },
+  {
+    "id": "l10",
+    "title": "Ângulo Agudo"
+  },
+  {
+    "id": "l11",
+    "title": "Ângulo Obtuso"
+  },
+  {
+    "id": "l12",
+    "title": "Ângulo Reto"
+  },
+  {
+    "id": "l13",
+    "title": "Ângulo"
+  },
+  {
+    "id": "l14",
+    "title": "Aresta"
+  },
+  {
+    "id": "l15",
+    "title": "Aritmética"
+  },
+  {
+    "id": "l16",
+    "title": "Associativa"
+  },
+  {
+    "id": "l17",
+    "title": "Base"
+  },
+  {
+    "id": "l18",
+    "title": "Bissetriz"
+  },
+  {
+    "id": "l19",
+    "title": "Cálculo"
+  },
+  {
+    "id": "l20",
+    "title": "Cardinais"
+  },
+  {
+    "id": "l21",
+    "title": "Cartesiano"
+  },
+  {
+    "id": "l22",
+    "title": "Cateto Adjacente"
+  },
+  {
+    "id": "l23",
+    "title": "Cateto Oposto"
+  },
+  {
+    "id": "l24",
+    "title": "Centímetro"
+  },
+  {
+    "id": "l25",
+    "title": "Centro"
+  },
+  {
+    "id": "l26",
+    "title": "Cilindro"
+  },
+  {
+    "id": "l27",
+    "title": "Círculo"
+  },
+  {
+    "id": "l28",
+    "title": "Circunferência"
+  },
+  {
+    "id": "l29",
+    "title": "Coeficiente"
+  },
+  {
+    "id": "l30",
+    "title": "Coincidente"
+  },
+  {
+    "id": "l31",
+    "title": "Colchetes"
+  },
+  {
+    "id": "l32",
+    "title": "Comprimento"
+  },
+  {
+    "id": "l33",
+    "title": "Comutativa"
+  },
+  {
+    "id": "l34",
+    "title": "Concorrente"
+  },
+  {
+    "id": "l35",
+    "title": "Cone"
+  },
+  {
+    "id": "l36",
+    "title": "Conferir"
+  },
+  {
+    "id": "l37",
+    "title": "Constante"
+  },
+  {
+    "id": "l38",
+    "title": "Conta"
+  },
+  {
+    "id": "l39",
+    "title": "Contagem"
+  },
+  {
+    "id": "l40",
+    "title": "Coordenada"
+  },
+  {
+    "id": "l41",
+    "title": "Corda"
+  },
+  {
+    "id": "l42",
+    "title": "Crescimento Exponencial"
+  },
+  {
+    "id": "l43",
+    "title": "Cubo"
+  },
+  {
+    "id": "l44",
+    "title": "Custo"
+  },
+  {
+    "id": "l45",
+    "title": "Decrescimento Exponencial"
+  },
+  {
+    "id": "l46",
+    "title": "Denominador"
+  },
+  {
+    "id": "l47",
+    "title": "Derivada"
+  },
+  {
+    "id": "l48",
+    "title": "Desconta"
+  },
+  {
+    "id": "l49",
+    "title": "Despesa"
+  },
+  {
+    "id": "l50",
+    "title": "Diagonal"
+  },
+  {
+    "id": "l51",
+    "title": "Diâmetro"
+  },
+  {
+    "id": "l52",
+    "title": "Diedro"
+  },
+  {
+    "id": "l53",
+    "title": "Dimensão"
+  },
+  {
+    "id": "l54",
+    "title": "Dinheiro"
+  },
+  {
+    "id": "l55",
+    "title": "Distributiva"
+  },
+  {
+    "id": "l56",
+    "title": "Dividendo"
+  },
+  {
+    "id": "l57",
+    "title": "Divisão"
+  },
+  {
+    "id": "l58",
+    "title": "Divisor"
+  },
+  {
+    "id": "l59",
+    "title": "Economia"
+  },
+  {
+    "id": "l60",
+    "title": "Eixo das Abscissas X"
+  },
+  {
+    "id": "l61",
+    "title": "Eixo das Ordenadas Y"
+  },
+  {
+    "id": "l62",
+    "title": "Elipse"
+  },
+  {
+    "id": "l63",
+    "title": "Empresta"
+  },
+  {
+    "id": "l64",
+    "title": "Equação do 1º Grau"
+  },
+  {
+    "id": "l65",
+    "title": "Equação do 2º Grau"
+  },
+  {
+    "id": "l66",
+    "title": "Equação"
+  },
+  {
+    "id": "l67",
+    "title": "Esfera"
+  },
+  {
+    "id": "l68",
+    "title": "Estatística"
+  },
+  {
+    "id": "l69",
+    "title": "Expoente"
+  },
+  {
+    "id": "l70",
+    "title": "Expressões Numéricas"
+  },
+  {
+    "id": "l71",
+    "title": "Face"
+  },
+  {
+    "id": "l72",
+    "title": "Fatoração"
+  },
+  {
+    "id": "l73",
+    "title": "Fatores Primos"
+  },
+  {
+    "id": "l74",
+    "title": "Financeira"
+  },
+  {
+    "id": "l75",
+    "title": "Fórmula"
+  },
+  {
+    "id": "l76",
+    "title": "Fração"
+  },
+  {
+    "id": "l77",
+    "title": "Função Afim"
+  },
+  {
+    "id": "l78",
+    "title": "Função Constante"
+  },
+  {
+    "id": "l79",
+    "title": "Função Cosseno"
+  },
+  {
+    "id": "l80",
+    "title": "Função Exponencial"
+  },
+  {
+    "id": "l81",
+    "title": "Função Logarítmica"
+  },
+  {
+    "id": "l82",
+    "title": "Função Modular"
+  },
+  {
+    "id": "l83",
+    "title": "Função Quadrática"
+  },
+  {
+    "id": "l84",
+    "title": "Função"
+  },
+  {
+    "id": "l85",
+    "title": "Geometria Analítica"
+  },
+  {
+    "id": "l86",
+    "title": "Geometria Especial"
+  },
+  {
+    "id": "l87",
+    "title": "Geometria Plana"
+  },
+  {
+    "id": "l88",
+    "title": "Geometria"
+  },
+  {
+    "id": "l89",
+    "title": "Gráfico de Barras"
+  },
+  {
+    "id": "l90",
+    "title": "Gráfico de Colunas"
+  },
+  {
+    "id": "l91",
+    "title": "Gráfico de Linhas"
+  },
+  {
+    "id": "l92",
+    "title": "Gráfico de Setores"
+  },
+  {
+    "id": "l93",
+    "title": "Gráfico"
+  },
+  {
+    "id": "l94",
+    "title": "Hexágono"
+  },
+  {
+    "id": "l95",
+    "title": "Hipotenusa"
+  },
+  {
+    "id": "l96",
+    "title": "Horizontal"
+  },
+  {
+    "id": "l97",
+    "title": "Ímpar"
+  },
+  {
+    "id": "l98",
+    "title": "Índice"
+  },
+  {
+    "id": "l99",
+    "title": "Inequação"
+  },
+  {
+    "id": "l100",
+    "title": "Inflação"
+  },
+  {
+    "id": "l101",
+    "title": "Integral Definida"
+  },
+  {
+    "id": "l102",
+    "title": "Intercepto"
+  },
+  {
+    "id": "l103",
+    "title": "Investimento"
+  },
+  {
+    "id": "l104",
+    "title": "Juro"
+  },
+  {
+    "id": "l105",
+    "title": "Largura"
+  },
+  {
+    "id": "l106",
+    "title": "Limite"
+  },
+  {
+    "id": "l107",
+    "title": "Linhas"
+  },
+  {
+    "id": "l108",
+    "title": "Literal"
+  },
+  {
+    "id": "l109",
+    "title": "Logaritmos"
+  },
+  {
+    "id": "l110",
+    "title": "Losango"
+  },
+  {
+    "id": "l111",
+    "title": "Lucro"
+  },
+  {
+    "id": "l112",
+    "title": "Matemática Financeira"
+  },
+  {
+    "id": "l113",
+    "title": "Matriz"
+  },
+  {
+    "id": "l114",
+    "title": "Máximo"
+  },
+  {
+    "id": "l115",
+    "title": "MDC"
+  },
+  {
+    "id": "l116",
+    "title": "Mediana"
+  },
+  {
+    "id": "l117",
+    "title": "Médio"
+  },
+  {
+    "id": "l118",
+    "title": "Mínimo"
+  },
+  {
+    "id": "l119",
+    "title": "Minuendo"
+  },
+  {
+    "id": "l120",
+    "title": "MMC"
+  },
+  {
+    "id": "l121",
+    "title": "Moda"
+  },
+  {
+    "id": "l122",
+    "title": "Monômio"
+  },
+  {
+    "id": "l123",
+    "title": "Multiplicação"
+  },
+  {
+    "id": "l124",
+    "title": "Numerador"
+  },
+  {
+    "id": "l125",
+    "title": "Numeral Misto"
+  },
+  {
+    "id": "l126",
+    "title": "Número"
+  },
+  {
+    "id": "l127",
+    "title": "Oblíqua"
+  },
+  {
+    "id": "l128",
+    "title": "Octógono"
+  },
+  {
+    "id": "l129",
+    "title": "Operações"
+  },
+  {
+    "id": "l130",
+    "title": "Orçamento"
+  },
+  {
+    "id": "l131",
+    "title": "Ordinais"
+  },
+  {
+    "id": "l132",
+    "title": "Ortogonal"
+  },
+  {
+    "id": "l133",
+    "title": "Otimização"
+  },
+  {
+    "id": "l134",
+    "title": "Pagamento"
+  },
+  {
+    "id": "l135",
+    "title": "Par"
+  },
+  {
+    "id": "l136",
+    "title": "Paralelas"
+  },
+  {
+    "id": "l137",
+    "title": "Paralelepípedo"
+  },
+  {
+    "id": "l138",
+    "title": "Paralelogramo"
+  },
+  {
+    "id": "l139",
+    "title": "Parcela"
+  },
+  {
+    "id": "l140",
+    "title": "Parêntese"
+  },
+  {
+    "id": "l141",
+    "title": "Pentágono"
+  },
+  {
+    "id": "l142",
+    "title": "Perímetro"
+  },
+  {
+    "id": "l143",
+    "title": "Perpendicular"
+  },
+  {
+    "id": "l144",
+    "title": "Pi"
+  },
+  {
+    "id": "l145",
+    "title": "Pirâmide"
+  },
+  {
+    "id": "l146",
+    "title": "Plano Cartesiano"
+  },
+  {
+    "id": "l147",
+    "title": "Polinômio"
+  },
+  {
+    "id": "l148",
+    "title": "Ponto"
+  },
+  {
+    "id": "l149",
+    "title": "Porcentagem"
+  },
+  {
+    "id": "l150",
+    "title": "Potência Base"
+  },
+  {
+    "id": "l151",
+    "title": "Potenciação"
+  },
+  {
+    "id": "l152",
+    "title": "Preço"
+  },
+  {
+    "id": "l153",
+    "title": "Prejuízo"
+  },
+  {
+    "id": "l154",
+    "title": "Probabilidade"
+  },
+  {
+    "id": "l155",
+    "title": "Produtos Notáveis"
+  },
+  {
+    "id": "l156",
+    "title": "Quadrado"
+  },
+  {
+    "id": "l157",
+    "title": "Quantidade"
+  },
+  {
+    "id": "l158",
+    "title": "Quociente"
+  },
+  {
+    "id": "l159",
+    "title": "Radical"
+  },
+  {
+    "id": "l160",
+    "title": "Radicando"
+  },
+  {
+    "id": "l161",
+    "title": "Radiciação"
+  },
+  {
+    "id": "l162",
+    "title": "Raio"
+  },
+  {
+    "id": "l163",
+    "title": "Raiz Quadrada"
+  },
+  {
+    "id": "l164",
+    "title": "Rebatimento"
+  },
+  {
+    "id": "l165",
+    "title": "Receita"
+  },
+  {
+    "id": "l166",
+    "title": "Rentabilidade"
+  },
+  {
+    "id": "l167",
+    "title": "Reta"
+  },
+  {
+    "id": "l168",
+    "title": "Retângulo"
+  },
+  {
+    "id": "l169",
+    "title": "Retorna"
+  },
+  {
+    "id": "l170",
+    "title": "Secante"
+  },
+  {
+    "id": "l171",
+    "title": "Segmento de Reta"
+  },
+  {
+    "id": "l172",
+    "title": "Segmento"
+  },
+  {
+    "id": "l173",
+    "title": "Sequência"
+  },
+  {
+    "id": "l174",
+    "title": "Série"
+  },
+  {
+    "id": "l175",
+    "title": "Simetria"
+  },
+  {
+    "id": "l176",
+    "title": "Soma"
+  },
+  {
+    "id": "l177",
+    "title": "Substituição"
+  },
+  {
+    "id": "l178",
+    "title": "Subtração"
+  },
+  {
+    "id": "l179",
+    "title": "Subtraendo"
+  },
+  {
+    "id": "l180",
+    "title": "Tangente"
+  },
+  {
+    "id": "l181",
+    "title": "Taxa"
+  },
+  {
+    "id": "l182",
+    "title": "Trapézio"
+  },
+  {
+    "id": "l183",
+    "title": "Triângulo"
+  },
+  {
+    "id": "l184",
+    "title": "Valor"
+  },
+  {
+    "id": "l185",
+    "title": "Variável"
+  },
+  {
+    "id": "l186",
+    "title": "Vertical"
+  },
+  {
+    "id": "l187",
+    "title": "Vértice"
+  },
+  {
+    "id": "l188",
+    "title": "Vetor"
+  },
+  {
+    "id": "l189",
+    "title": "Volume"
+  }
+]

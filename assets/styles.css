@@ -269,7 +269,6 @@ body {
 
   .desktop-warning__qr {
     margin-top: 10px;
-    border: 10px solid #fff;
     border-radius: 12px;
     box-shadow: var(--shadow);
     width: 250px;

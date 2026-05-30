@@ -94,7 +94,7 @@ class ScreenLibras extends HTMLElement {
     const dropdown = this.querySelector("#searchResultsDropdown");
     if (!dropdown || !state.data) return;
 
-    const query = text.trim().toLowerCase();
+    const query = normalizeString(text);
 
     // Alternar visibilidade do botão de limpar
     if (this.clearBtn) {
@@ -118,7 +118,7 @@ class ScreenLibras extends HTMLElement {
 
     // Filtrar as aulas para exibir no autocomplete do dropdown
     const results = state.data.lessons.filter((lesson) =>
-      lesson.title.toLowerCase().includes(query)
+      normalizeString(lesson.title).includes(query)
     );
 
     dropdown.innerHTML = "";
@@ -155,9 +155,9 @@ class ScreenLibras extends HTMLElement {
 
     const loadMoreContainer = this.querySelector("#loadMoreContainer");
 
-    const query = filterQuery.trim().toLowerCase();
+    const query = normalizeString(filterQuery);
     const filteredLessons = state.data.lessons.filter((lesson) =>
-      lesson.title.toLowerCase().includes(query)
+      normalizeString(lesson.title).includes(query)
     );
 
     if (filteredLessons.length === 0) {

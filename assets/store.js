@@ -22,6 +22,13 @@ function escapeHtml(str) {
     .replaceAll("'", "&#039;");
 }
 
+function normalizeString(str) {
+  return String(str || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+}
+
 function categoryName(categoryId) {
   if (!state.data) return categoryId;
   const c = state.data.categories.find((x) => x.id === categoryId);
@@ -124,3 +131,4 @@ window.categoryName = categoryName;
 window.appAlert = appAlert;
 window.setHeader = setHeader;
 window.showScreen = showScreen;
+window.normalizeString = normalizeString;

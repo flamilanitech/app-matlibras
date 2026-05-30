@@ -270,9 +270,9 @@ class ScreenSearch extends HTMLElement {
   }
 
   searchSignals(query) {
-    const q = (query || "").trim().toLowerCase();
+    const q = normalizeString(query);
     if (!q || !state.data) return [];
-    return state.data.signals.filter((s) => s.term.toLowerCase().includes(q));
+    return state.data.signals.filter((s) => normalizeString(s.term).includes(q));
   }
 
   renderHomeResults(items) {

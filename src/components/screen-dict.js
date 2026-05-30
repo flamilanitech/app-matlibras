@@ -21,7 +21,7 @@ class ScreenDict extends HTMLElement {
         <div id="bottomSheetOverlay" class="bottom-sheet-overlay"></div>
         <div id="bottomSheet" class="bottom-sheet">
             <div class="bottom-sheet__header">
-                <h3 class="section-title">Sinais</h3>
+                <h3 id="bottomSheetTitle" class="section-title">Sinais</h3>
                 <button type="button" id="closeBottomSheet" class="bottom-sheet__close">✕</button>
             </div>
             <div class="bottom-sheet__content">
@@ -84,7 +84,7 @@ class ScreenDict extends HTMLElement {
     const dropdown = this.querySelector("#searchResultsDropdown");
     if (!dropdown || !state.data) return;
 
-    const query = text.trim().toLowerCase();
+    const query = normalizeString(text);
     if (query.length === 0) {
       dropdown.classList.add("hidden");
       dropdown.innerHTML = "";
@@ -92,7 +92,7 @@ class ScreenDict extends HTMLElement {
     }
 
     const results = state.data.signals.filter((s) =>
-      s.term.toLowerCase().includes(query),
+      normalizeString(s.term).includes(query),
     );
 
     dropdown.innerHTML = "";
@@ -173,6 +173,11 @@ class ScreenDict extends HTMLElement {
 
     const selected = state.selectedCategory;
     if (!selected) return;
+
+    const sheetTitle = this.querySelector("#bottomSheetTitle");
+    if (sheetTitle) {
+      sheetTitle.textContent = categoryName(selected);
+    }
 
     let items = state.data.signals.filter((s) => s.category === selected);
 

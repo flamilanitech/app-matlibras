@@ -17,15 +17,20 @@ async function init() {
     const screenLibras = document.querySelector("screen-libras");
     if (screenLibras && screenLibras.updateData) screenLibras.updateData();
 
-    // Define tela inicial dependendo da autenticação
+    // Define tela inicial padrão como search (busca local)
     const initializeRoute = () => {
-      if (window.Clerk && window.Clerk.user) {
-        showScreen("search"); // Usuário logado vai para pesquisa local
-      } else {
-        showScreen("account"); // Deslogado vai para conta
-      }
+      showScreen("search");
     };
 
+    // TODO - Colocar a lógica para verificar se o usuário está logado e redirecionar para a tela de perfil ao invés de search
+/*     const initializeRoute = () => {
+      if (window.Clerk.user) {
+        showScreen("account");
+      } else {
+        showScreen("search");
+      }
+    };
+ */
     if (window.isClerkLoaded) {
       initializeRoute();
     } else {
@@ -71,14 +76,15 @@ window.addEventListener("load", async function () {
       afterSignOutUrl: window.location.href,
     });
   } else {
-    // Se não está logado e estava em alguma rota protegida, manda para 'account'
-    const protectedRoutes = ["search", "dict", "libras"];
+    // TODO - Não redireciona mais usuários deslogados
+ // Se não está logado e estava em alguma rota protegida, manda para 'account'
+  /*   const protectedRoutes = ["search", "dict", "libras"];
     if (
       typeof state !== "undefined" &&
       protectedRoutes.includes(state.activeRoute)
     ) {
       showScreen("account");
-    }
+    } */
   }
 
   // Emite evento para os componentes que dependem do Clerk atualizarem

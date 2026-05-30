@@ -85,7 +85,9 @@ function setHeader(title) {
 }
 
 function showScreen(route) {
-  const protectedRoutes = ["search", "dict", "libras"];
+  // TODO Protege as rotas de busca, dicionário e Libras - DESATIVADO
+  // const protectedRoutes = ["search", "dict", "libras"];
+  const protectedRoutes = [];
 
   // Bloqueio de acesso se a rota é protegida e o Clerk já carregou sem usuário logado
   if (protectedRoutes.includes(route)) {
